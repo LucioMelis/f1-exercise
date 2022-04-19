@@ -2,6 +2,7 @@
   <div>
     <img :src="imgUrl(pilotiF1[0].numeroPilota)" alt="pilota" />
     <div>{{ pilotiF1 }}</div>
+    <p>Ciao</p>
     <!-- <img :src="require(pilotiF1[0].numeroPilota2)" alt="pilota" /> -->
   </div>
 </template>
